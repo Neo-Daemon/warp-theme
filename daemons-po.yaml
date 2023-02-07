@@ -1,0 +1,28 @@
+background_image:
+  path: daemon/arcane/arcane-bg-0.jpeg
+  opacity: 100
+accent: '#5bd9ff' # Accent color for UI elements
+background: '#002b36' # Terminal background color
+details: darker # Whether the theme is lighter or darker.
+foreground: '#00616c' # The foreground color.
+terminal_colors: # Ansi escape colors.
+# Purple Orange
+  normal:
+    red: "#ff7900"
+    magenta: "#bf09bf"
+    white: "#e645e6"
+    # cyan: "#980098"
+    cyan: "#ff16ff"
+    black: "#ff6d00"
+    green: "#ff8500"
+    blue: "#f415f4"
+    yellow: "#ff9e00"
+  bright:
+    yellow: "#f1e0c5"
+    black: "#fc9342"
+    red: "#ffb133"
+    magenta: "#f95f93"
+    blue: "#ff9abc"
+    cyan: "#e93f77"
+    white: "#bf3865"
+    green: "#ffc180"
