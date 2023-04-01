@@ -1,0 +1,28 @@
+background_image:
+  path: daemon/arcane/arcane-bg-0.jpeg
+  opacity: 100
+accent: '#5bd9ff' # Accent color for UI elements
+background: '#002b36' # Terminal background color
+details: darker # Whether the theme is lighter or darker.
+foreground: '#00616c' # The foreground color.
+terminal_colors: # Ansi escape colors.
+# Galaxy Frontend
+  normal:
+    black: "#000000"
+    red: "#f9555f"
+    green: "#21B089"
+    yellow: "#ff9e00"
+    cyan: "#589DF6"
+    magenta: "#F557A0"
+    # cyan: "#980098"
+    blue: "#1F9EE7"
+    white: "#BBBBBB"
+  bright:
+    black: "#555555"
+    red: "#FA8C8F"
+    green: "#35BB9A"
+    yellow: "#ff9e00"
+    cyan: "#589DF6"
+    magenta: "#F579B2"
+    blue: "#3979BC"
+    white: "#FFFFFF"
